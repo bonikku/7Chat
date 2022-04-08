@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f862b6d-e25c-4e9e-89b3-da39d85af5ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/controllers/reset_form_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/controllers/reset_form_controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_new_message_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_new_message_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_new_room_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_new_room_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/rooms/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/rooms/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,7 @@
       <workItem from="1649332109898" duration="76000" />
       <workItem from="1649332219025" duration="1851000" />
       <workItem from="1649352508251" duration="60000" />
-      <workItem from="1649352571075" duration="2456000" />
+      <workItem from="1649352571075" duration="3191000" />
     </task>
     <servers />
   </component>
