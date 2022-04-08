@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "channels": "^0.0.4",
     "stimulus": "^3.0.1"
   }
 }

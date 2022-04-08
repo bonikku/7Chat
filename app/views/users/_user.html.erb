@@ -1,7 +1,7 @@
 <% if @single_room && @single_room.participant?(@single_room, user) %>
   <% isActive = 'active' %>
 <% else %>
-  <% isActive = ' ' %>
+  <% isActive = '' %>
 <% end %>
 
 <li class="list-group-item d-flex align-items-center justify-content-between user_list_item <%= isActive %>">
